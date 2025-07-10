@@ -1,7 +1,26 @@
 ---
 title: "Members"
 ---
+
 <style>
+/* Minecraft grass block background */
+body {
+  background-image: url('https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/15/Grass_Block_JE5_BE3.png');
+  background-repeat: repeat;
+  background-size: 64px 64px;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+/* Styling for each member card */
+.member-block {
+  background-color: rgba(0, 0, 0, 0.6); /* transparent black for readability */
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
 @media (max-width: 600px) {
   .member-block {
     flex-direction: column !important;
@@ -14,7 +33,7 @@ title: "Members"
 }
 </style>
 
-The Data Miners
+# The Data Miners
 
 ---
 
@@ -46,7 +65,7 @@ The Data Miners
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
   <img src="Angela-profilepicture.jpeg"
-       alt="Angea"
+       alt="Angela"
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
@@ -64,22 +83,22 @@ The Data Miners
 
 ---
 
-## Vivian
+### Vivian
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
   <img src="Screen Shot 2025-07-09 at 4.49.20 PM.png"
        alt="Vivian Zhang"
-      style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
+       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
       Vivian is a rising junior from San Diego. She enjoys playing softball, baking, and painting.
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>Favorite food: sushi
-      <li>Interested major: data science
-      <li>Favorite animal: cats
+      <li>Favorite food: sushi</li>
+      <li>Interested major: data science</li>
+      <li>Favorite animal: cats</li>
     </ul>
   </div>
   
@@ -87,7 +106,7 @@ The Data Miners
 
 ---
 
-## Soham 
+### Soham 
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
@@ -110,7 +129,7 @@ The Data Miners
 
 ---
 
-## Evelyn Yang
+### Evelyn Yang
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
