@@ -34,7 +34,7 @@ menu:
       weight: 30
     - identifier: Mini Project
       name: Mini Projects
-      url: /contents/miniproj
+      url: /miniproj/
       weight: 40
       
       
