@@ -3,9 +3,10 @@ title: "Members"
 ---
 
 <div style="
-  background-image: url('minecraft-bg-diamond.png');
-  background-repeat: repeat;
-  background-size: 64px 64px;
+  background-image: url('minecraft-bg.png');
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  background-attachment: fixed;
   color: white;
   padding: 40px;
   font-family: sans-serif;
