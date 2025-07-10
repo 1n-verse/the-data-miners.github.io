@@ -3,7 +3,7 @@ title: "Members"
 ---
 
 <div style="
-  background-image: url('https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/15/Grass_Block_JE5_BE3.png');
+  background-image: url('minecraft-bg.png');
   background-repeat: repeat;
   background-size: 64px 64px;
   color: white;
@@ -13,10 +13,11 @@ title: "Members"
 
 <style>
 .member-block {
-  background-color: rgba(0, 0, 0, 0.6); /* transparent black for readability */
+  background-color: rgba(0, 0, 0, 0.6);
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin-bottom: 40px;
 }
 
 @media (max-width: 600px) {
@@ -37,7 +38,7 @@ title: "Members"
 
 ### Erica
 
-<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <img src="IMG_8479.jpg"
        alt="Erica"
@@ -60,7 +61,7 @@ title: "Members"
 
 ### Angela
 
-<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <img src="Angela-profilepicture.jpeg"
        alt="Angela"
@@ -83,7 +84,7 @@ title: "Members"
 
 ### Vivian
 
-<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <img src="Screen Shot 2025-07-09 at 4.49.20 PM.png"
        alt="Vivian Zhang"
@@ -106,7 +107,7 @@ title: "Members"
 
 ### Soham 
 
-<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <img src="sjx_image.png"
        alt="Soham Jani Image"
@@ -129,7 +130,7 @@ title: "Members"
 
 ### Evelyn Yang
 
-<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <img src="evelyn.png"
        alt="Evelyn Yang"
