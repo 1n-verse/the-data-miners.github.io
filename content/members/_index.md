@@ -2,6 +2,9 @@
 title: "Members"
 ---
 
+<!-- Google Font for blocky Minecraft style -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
 <div style="
   background-image: url('minecraft-bg.jpg');
   background-repeat: repeat-y;
@@ -21,6 +24,17 @@ title: "Members"
   margin-bottom: 40px;
 }
 
+.member-name {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #2b2b2b;
+  padding: 10px 15px;
+  font-family: 'Press Start 2P', monospace;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
 @media (max-width: 600px) {
   .member-block {
     flex-direction: column !important;
@@ -33,11 +47,11 @@ title: "Members"
 }
 </style>
 
-# The Data Miners
+# <span class="member-name">The Data Miners</span>
 
 ---
 
-### Erica
+<div class="member-name">Erica</div>
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -55,12 +69,11 @@ title: "Members"
       <li>Favorite drink: Jasmine green tea!</li>
     </ul>
   </div>
-
 </div>
 
 ---
 
-### Angela
+<div class="member-name">Angela</div>
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -78,12 +91,11 @@ title: "Members"
       <li>Favorite drink: Mango Mochi Boba</li>
     </ul>
   </div>
-
 </div>
 
 ---
 
-### Vivian
+<div class="member-name">Vivian</div>
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -101,12 +113,11 @@ title: "Members"
       <li>Favorite animal: cats</li>
     </ul>
   </div>
-  
 </div>
 
 ---
 
-### Soham 
+<div class="member-name">Soham</div>
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -124,12 +135,11 @@ title: "Members"
       <li>He had lots of fun working on this project!</li>
     </ul>
   </div>
-  
 </div>
 
 ---
 
-### Evelyn Yang
+<div class="member-name">Evelyn Yang</div>
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -147,7 +157,6 @@ title: "Members"
       <li>In her free time, she enjoys watching movies and shows.</li>
     </ul>
   </div>
-  
 </div>
 
 </div>
