@@ -16,22 +16,29 @@
   <div style="
     position: relative;
     z-index: 2;
-    color: #fff;
-    padding: 40px;
-    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
-    max-width: 900px;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
   ">
-    color: white;
-  padding: 40px;
-  font-family: sans-serif;
-">
+    <div style="
+      background: rgba(30,30,30,0.85);
+      border-radius: 18px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+      color: #fff;
+      padding: 40px 32px;
+      margin: 60px 0;
+      max-width: 800px;
+      width: 100%;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+      font-family: sans-serif;
+    ">
 
----
+<!-- ---
 title: "Project Title"
 showToc: true
 tocOpen: true
----
+--- -->
 
 ## Introduction
 
