@@ -16,8 +16,7 @@ tocOpen: true
 
 ## Introduction
 
-
----
+Our goal is to figure out the correlation between income and air pollution using data from cities across the United States.
 
 
 ## Data
