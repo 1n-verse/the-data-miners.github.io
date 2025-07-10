@@ -30,6 +30,11 @@ menu:
       name: Exercise
       url: /exercise/
       weight: 30
+    - identifier: Mini Projects
+      name: Mini Projects
+      url: /contents/miniproj
+      weight: 40
+      
       
 markup:
   goldmark:
