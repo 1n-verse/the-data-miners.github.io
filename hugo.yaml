@@ -15,6 +15,8 @@ params:
     imageUrl: "butter.jpeg"
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
+  assets:
+    - css/custom-home-bg.css
 
 menu:
   main:
