@@ -35,9 +35,7 @@
     ">
 
 <!-- ---
-title: "Project Title"
-showToc: true
-tocOpen: true
+title: "Income and Air Pollution's Correlation"
 --- -->
 
 ## Introduction
