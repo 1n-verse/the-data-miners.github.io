@@ -20,7 +20,7 @@ Our goal is to figure out the correlation between income and air pollution using
 
 
 ## Data
-
+We found data that linked city and state to air quality. We then found data that linked city and state to air quality. We combined the two data sets into one if the city and state were the same. 
 
 ---
 
