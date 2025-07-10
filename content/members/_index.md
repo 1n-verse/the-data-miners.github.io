@@ -67,19 +67,4 @@ body {
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <img src="IMG_8479.jpg"
        alt="Erica"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
-  <div style="flex: 1; text-align: left;">
-    <p style="margin: 0; padding-top: 0.5em;">
-      Erica is a rising junior from San Diego. She loves listening to music, rock climbing, and baking. 
-    </p>
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>Favorite animals: Seals, birds, cats</li>
-      <li>Big Pompompurin fan</li>
-      <li>Favorite drink: Jasmine green tea!</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Repeat for other members... -->
-
-</div>
+       style="width
