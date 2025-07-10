@@ -34,9 +34,11 @@
       font-family: sans-serif;
     ">
 
-<!-- ---
-title: "Income and Air Pollution's Correlation"
---- -->
+---
+title: "Project Title"
+showToc: true
+tocOpen: true
+---
 
 ## Introduction
 
