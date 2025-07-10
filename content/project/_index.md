@@ -35,9 +35,7 @@
     ">
 
 ---
-title: "Project Title"
-showToc: true
-tocOpen: true
+title: Project
 ---
 
 ## Introduction
