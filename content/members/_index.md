@@ -3,7 +3,7 @@ title: "Members"
 ---
 
 <div style="
-  background-image: url('minecraft-bg.png');
+  background-image: url('minecraft-bg.jpg');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-attachment: fixed;
