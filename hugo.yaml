@@ -32,7 +32,7 @@ menu:
       name: Exercise
       url: /exercise/
       weight: 30
-    - identifier: Mini Projects
+    - identifier: Mini Project
       name: Mini Projects
       url: /contents/miniproj
       weight: 40
