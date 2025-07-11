@@ -1,7 +1,6 @@
 <div style="
   position: relative;
   min-height: 100vh;
-  background-image: url('minecraft-flowers.jpg');
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-attachment: fixed;
