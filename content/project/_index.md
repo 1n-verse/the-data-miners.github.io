@@ -2,43 +2,6 @@
 title: "Project"
 ---
 
-<div style="
-  position: relative;
-  min-height: 100vh;
-  background-repeat: repeat-y;
-  background-size: 100% auto;
-  background-attachment: fixed;
-  background: rgba(0,0,0,0.5);
-  font-family: sans-serif;
-">
-  <div style="
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(0,0,0,0.5);
-    z-index: 1;
-  "></div>
-  <div style="
-    position: relative;
-    z-index: 2;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    background: rgba(0,0,0,0.5);
-    min-height: 100vh;
-  ">
-    <div style="
-      background: rgba(30,30,30,0.85);
-      border-radius: 18px;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.3);
-      color: #fff;
-      padding: 40px 32px;
-      margin: 60px 0;
-      max-width: 800px;
-      width: 100%;
-      text-shadow: 0 2px 8px rgba(0,0,0,0.7);
-      font-family: sans-serif;
-    ">
-
 ## Introduction
 
 ---
