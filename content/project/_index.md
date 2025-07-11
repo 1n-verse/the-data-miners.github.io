@@ -8,6 +8,7 @@ title: "Project"
   background-repeat: repeat-y;
   background-size: 100% auto;
   background-attachment: fixed;
+  background: rgba(0,0,0,0.5);
   font-family: sans-serif;
 ">
   <div style="
@@ -22,6 +23,7 @@ title: "Project"
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    background: rgba(0,0,0,0,0.5);
     min-height: 100vh;
   ">
     <div style="
