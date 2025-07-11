@@ -6,10 +6,7 @@ title: "Members"
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
 <div style="
-  background-image: url('minecraft-bg.jpg');
-  background-repeat: repeat-y;
-  background-size: 100% auto;
-  background-attachment: fixed;
+  background-color:rgba(211, 211, 211, 0);
   color: white;
   padding: 40px;
   font-family: sans-serif;
