@@ -3,7 +3,7 @@ title: Income vs. Air Quality
 date: 2025-07-10
 author: Mini Project 1
 ---
-Mini Project 1
+Overview
 ---
 The goal of the project was to determine if there was a correlation between income (measured by median income of a specific location, e.g. county/city) and air quality (measured by PM2.5, or particulate matter with a diameter of 2.5 micrometers or less).
 
