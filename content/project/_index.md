@@ -1,3 +1,9 @@
+---
+title: "Project xTitle"
+showToc: true
+tocOpen: true
+---
+
 <div style="
   background-image: url('minecraft-flowers.jpg');
   background-repeat: repeat-y;
@@ -7,12 +13,6 @@
   padding: 40px;
   font-family: sans-serif;
 ">
-
----
-title: "Project xTitle"
-showToc: true
-tocOpen: true
----
 
 ## Introduction
 
