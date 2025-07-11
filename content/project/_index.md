@@ -23,7 +23,7 @@ title: "Project"
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    background: rgba(0,0,0,0,0.5);
+    background: rgba(0,0,0,0.5);
     min-height: 100vh;
   ">
     <div style="
