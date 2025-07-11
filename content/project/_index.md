@@ -1,7 +1,7 @@
 ---
 title: "Project"
 showToc: true
-tocOpen:true
+tocOpen: true
 ---
 
 ## Introduction
