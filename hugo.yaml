@@ -2,6 +2,8 @@ baseURL: 'https://ucd25-cosmos-the-data-miners.github.io'
 languageCode: en-us
 title: "The Data Miners"
 theme: "PaperMod"
+disableScrollBarStyle = false
+
 
 params:
   defaultTheme: auto
