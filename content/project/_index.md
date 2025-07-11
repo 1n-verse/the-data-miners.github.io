@@ -1,3 +1,7 @@
+---
+title: "Project"
+---
+
 <div style="
   position: relative;
   min-height: 100vh;
@@ -32,10 +36,6 @@
       text-shadow: 0 2px 8px rgba(0,0,0,0.7);
       font-family: sans-serif;
     ">
-
----
-Project Title
----
 
 ## Introduction
 
