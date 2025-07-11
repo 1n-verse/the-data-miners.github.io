@@ -23,10 +23,6 @@ title: "Project"
     max-width: 900px;
     margin: 0 auto;
   ">
-    color: white;
-  padding: 40px;
-  font-family: sans-serif;
-">
 
 ## Introduction
 
