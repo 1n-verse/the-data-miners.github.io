@@ -22,5 +22,6 @@ Income and AQI were related via a linear relationship. Linear correlation was ve
 
 # Modeling
 Income vs. AQI were plotted on a scatterplot.
+<img width="616" height="466" alt="incomevsaqi" src="https://github.com/user-attachments/assets/a7a68d31-0a81-48a0-bdfe-4ecd9c5e6e36" />
 
 
