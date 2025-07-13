@@ -2,6 +2,7 @@
 title: Income vs. Air Quality
 date: 2025-07-10
 author: Mini Project 1
+summary: "PUT SUMMARY HERE"
 ---
 Overview
 ---
