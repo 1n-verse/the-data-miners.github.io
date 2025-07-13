@@ -1,0 +1,51 @@
+baseURL = 'https://ucd25-cosmos-the-data-miners.github.io'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "Members"
+    weight = 10
+    url = "members"
+  [[menu.header]]
+    name = "Project"
+    weight = 20
+    url = "project"
+  [[menu.header]]
+    name = "Exercise"
+    weight = 30
+    url = "exercise"
+  [[menu.header]]
+    name = "Mini Projects"
+    weight = 40
+    url = "miniproj"
+
+
+[params]
+user = "The Data Miners"
+math = true
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+  [params.author]
+    name = "The Data Miners"  # Website and RSS feed author
+    email = "email@example.com"  # RSS feed email address
+
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/ucd25-cosmos-the-data-miners"
+target = "_blank"
+aria = "GitHub Profile"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$']]
+
+
