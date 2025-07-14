@@ -25,6 +25,6 @@ Income vs. AQI were plotted on a scatterplot.
 <br>
 For the portion of the project that used California counties, a heatmap was made that showed the range of income and air quality on a map of the United States.
 
-<iframe src="../plotly/income_aqi_fixed.html" width="100%" height="400px" style="border:none;"> </iframe>
+<iframe src="/plotly/income_aqi_fixed.html" width="100%" height="400px" style="border:none;"> </iframe>
 
 
