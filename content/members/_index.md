@@ -1,9 +1,6 @@
 ---
-title: "Members"
+title: "Members:"
 ---
-
-<!-- Google Font for blocky Minecraft style -->
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
 <div style="
   color: white;
