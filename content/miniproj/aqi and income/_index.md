@@ -22,8 +22,9 @@ Income and AQI were related via a linear relationship. Linear correlation was ve
 ### Modeling
 Income vs. AQI were plotted on a scatterplot.
 <img width="616" height="466" alt="incomevsaqi" src="https://github.com/user-attachments/assets/a7a68d31-0a81-48a0-bdfe-4ecd9c5e6e36" />
+<br>
 For the portion of the project that used California counties, a heatmap was made that showed the range of income and air quality on a map of the United States.
 
-<iframe src="/plotly/income_aqi_fixed.html" width="100%" height="400px" style="border:none;"> </iframe>
+<iframe src="../plotly/income_aqi_fixed.html" width="100%" height="400px" style="border:none;"> </iframe>
 
 
