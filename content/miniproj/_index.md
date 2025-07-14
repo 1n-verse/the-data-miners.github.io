@@ -1,1 +1,1 @@
-# Movie Analysis Mini Project
+# Mini Projects:
