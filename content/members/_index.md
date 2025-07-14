@@ -2,48 +2,6 @@
 title: "Members:"
 ---
 
-<div style="
-  color: white;
-  padding: 40px;
-  font-family: sans-serif;
-">
-
-<style>
-.member-block {
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 20px;
-  border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-  margin-bottom: 40px;
-}
-
-.member-name {
-  background-color: rgba(255, 255, 255, 0.5);
-  color: #2b2b2b;
-  padding: 10px 15px;
-  font-family: 'Press Start 2P', monospace;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 8px;
-  margin-bottom: 10px;
-}
-
-@media (max-width: 600px) {
-  .member-block {
-    flex-direction: column !important;
-    align-items: center !important;
-    text-align: center;
-  }
-  .member-block img {
-    margin-bottom: 10px;
-  }
-}
-</style>
-
-# <span class="member-name">The Data Miners</span>
-
----
-
 <div class="member-name">Erica</div>
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
