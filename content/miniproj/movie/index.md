@@ -1,3 +1,8 @@
+---
+title: Analysis of Movie Genres and Clusters
+date: 2025-07-13
+author: Mini Project 2
+---
 ## Overview:
 The objective of this project was to zoom in on Exploratory Data Analysis in order to identify patterns between data collected on popularity, vote average, and artificially-made clusters.
 
