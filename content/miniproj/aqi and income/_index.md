@@ -8,7 +8,7 @@ author: Mini Project 1
 The goal of the project was to determine if there was a correlation between income (measured by median income of a specific location, e.g. county/city) and air quality, measured by PM2.5, or particulate matter with a diameter of 2.5 micrometers or less.
 
 ### Data acquisition
-Data acquisition involved collecting data via the United States Census Bureau website, where a a request was submitted for 
+Data acquisition involved collecting data via the United States Census Bureau website, where a request was submitted for 
 [median income data for cities across the United States in 2023](https://api.census.gov/data/2023/acs/acs5?get=NAME,B19013_001E&for=place:*&in=state). 
 Because the second part of the project required using counties as locations for FIPS, the project collected this additional information from the 
 [NIH HD Pulse California income data](https://hdpulse.nimhd.nih.gov/data-portal/social/table?age=001&age_options=ageall_1&demo=00011&demo_options=income_3&race=00&race_options=race_7&sex=0&sex_options=sexboth_1&socialtopic=030&socialtopic_options=social_6&statefips=06&statefips_options=area_states). 
