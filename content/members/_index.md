@@ -78,7 +78,7 @@ title: "Members:"
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
-      Soham Jani is a rising senior from Pleasanton CA, located in the East Bay, 25 minutes from Oakland CA.
+      Soham Jani is a rising senior from Pleasanton CA, 45 mins east of San Francisco.
     </p>
     <ul style="margin: 0; padding-left: 20px;">
       <li>He enjoys working on small projects in his free time.</li>
